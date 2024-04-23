@@ -91,7 +91,7 @@
     "download-cli": "1.1.1",
     "file-loader": "6.2.0",
     "fs-promise": "2.0.3",
-    "get-firefox": "5.0.0",
+    "get-firefox": "6.0.0",
     "ignore-loader": "0.1.2",
     "ignore-styles": "5.0.1",
     "json": "11.0.0",
